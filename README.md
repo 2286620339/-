@@ -12,12 +12,17 @@
     
 4、git commit -m + "描述"：将缓存中操作添加备注并添加到本地库中
     git reflog：查看提交历史
+    
 5、git log ：日志，能够为每次操作提供id参数
     git log --pretty=oneline：简洁打印输出
     git log + 文件：该文件的操作日志
+    
 6、git reset --hard + 参数：回滚到目标参数时间
     git reset --hard HEAD~3：回滚3次，3可变
+    
 7、git status：查看当前仓库状态（绿色：在缓存中未提交；红色：没有操作，未在缓存中）
+
 8、git push origin master：上传本地当前分支到master
     git push：上传本地所有分支到master
+    
 9、
