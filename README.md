@@ -25,4 +25,6 @@
 8、git push origin master：上传本地当前分支到master
     git push：上传本地所有分支到master
     
-9、
+9、dir：打印目录下文件
+
+
